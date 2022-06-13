@@ -1,4 +1,5 @@
 *
+!.gitattributes
 !.gitignore
 
 !*/
@@ -9,3 +10,4 @@
 !ModTools/DataGeneric/JXP2/Sound/Music/*.fda
 !ModTools/DataGeneric/JXP2/Sound/Music/*.rat
 !ModTools/DataGeneric/JXP2/Sound/Music/*.wav
+!ModTools/DataGeneric/JXP2/Sound/Music/music_imperial_guard_theme_sides.aup3
