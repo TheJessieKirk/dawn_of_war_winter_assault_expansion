@@ -13,7 +13,7 @@ The GNU General Public License is ® or ™, and/or © 1989, 1991, 1999, 2007 [F
 
 All rights reserved. All other trademarks, logos and copyrights are the property of their respective owners.
 
-## 0.1 License and Limitation of Liability
+### 0.1 License and Limitation of Liability
 
 This release is free software: you can redistribute it and/or modify it under the terms of the [GNU Lesser General Public License](<https://www.gnu.org/licenses/lgpl-3.0>) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
@@ -21,8 +21,8 @@ This release is distributed in the hope that it will be useful, but __WITHOUT AN
 
 You should have received a copy of the GNU Lesser General Public License along with this release. If not, see [https://www.gnu.org/licenses](<https://www.gnu.org/licenses/>).
 
-# 1 Changes
+## 1 Changes
 
-## 1.1 Music
+### 1.1 Music
 
 * _“music_imperial_guard_theme”_ and variants normalised and remastered from orchestra, percussion and percussion/choir tracks for better stereo balance, and added new orchesta/percussion variant.
