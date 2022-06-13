@@ -21,3 +21,8 @@ This release is distributed in the hope that it will be useful, but __WITHOUT AN
 
 You should have received a copy of the GNU Lesser General Public License along with this release. If not, see [https://www.gnu.org/licenses](<https://www.gnu.org/licenses/>).
 
+# 1 Changes
+
+## 1.1 Music
+
+* _“music_imperial_guard_theme”_ and variants normalised and remastered from orchestra, percussion and percussion/choir tracks for better stereo balance, and added new orchesta/percussion variant.
