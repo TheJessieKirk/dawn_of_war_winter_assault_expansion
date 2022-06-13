@@ -1,5 +1,8 @@
 *
 !.gitignore
+
+!*/
+
 !ModTools/DataGeneric/JXP2/_default.burn
 !ModTools/DataGeneric/JXP2/Sound/*.fda
 !ModTools/DataGeneric/JXP2/Sound/*.rat
