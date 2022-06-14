@@ -5,7 +5,7 @@ Copyright © 2022 Jessie Kirk.
 
 This release is __100% unofficial__ and in no way endorsed by [Games Workshop](<https://www.games-workshop.com/>), [Relic Entertainment](<https://www.relic.com/>), [SEGA](<https://www.sega.com/>), or their affiliates.
 
-_Games Workshop_, _GW_, _40K_, _Dawn of War_, _Dawn of War Winter Assault_, _Warhammer_, _Warhammer 40,000_, and all associated characters, creatures, illustrations, images, locations, logos, names, races, vehicles, weapons, and the distinctive likenesses thereof, are either ® or ™, and/or © 1983–2022 [Games Workshop Limited](<https://www.games-workshop.com/>), variably registered around the world.
+_Games Workshop_, _GW_, _40K_, _Dawn of War_, _Dawn of War Winter Assault_, _Space Marine_, _Warhammer_, _Warhammer 40,000_, and all associated characters, creatures, illustrations, images, locations, logos, names, races, vehicles, weapons, and the distinctive likenesses thereof, are either ® or ™, and/or © 1983–2022 [Games Workshop Limited](<https://www.games-workshop.com/>), variably registered around the world.
 
 _Dawn of War_ is developed by Relic Entertainment and published by SEGA. _SEGA_, the SEGA logo, _Relic Entertainment_, and the Relic Entertainment logo are ® or ™, and/or © 1960–2022 of [SEGA Holdings Co., Ltd.](<https://www.sega.com/>), or its affiliates.
 
