@@ -1,9 +1,18 @@
 *
 !.gitattributes
 !.gitignore
+!JXP_README.md
+!JXP2_README.md
 
 !*/
 
+!ModTools/DataGeneric/JXP/_default.burn
+!ModTools/DataGeneric/JXP/Sound/*.fda
+!ModTools/DataGeneric/JXP/Sound/*.rat
+!ModTools/DataGeneric/JXP/Sound/Music/*.aup3
+!ModTools/DataGeneric/JXP/Sound/Music/*.fda
+!ModTools/DataGeneric/JXP/Sound/Music/*.rat
+!ModTools/DataGeneric/JXP/Sound/Music/*.wav
 !ModTools/DataGeneric/JXP2/_default.burn
 !ModTools/DataGeneric/JXP2/Sound/*.fda
 !ModTools/DataGeneric/JXP2/Sound/*.rat
