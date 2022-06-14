@@ -26,6 +26,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 ### 1.1 Music
 
 * _“copy of music_main_title”_ normalised and remastered for better stereo balance.
+* _“loop_msd1”_ normalised and remastered for better stereo balance.
 * _“music_imperial_guard_theme”_ and variants normalised and remastered from orchestra, percussion and percussion/choir tracks for better stereo balance, and added new orchesta/percussion variant.
 * _“music_mso1”_ and variants normalised and remastered from orchestra, percussion and percussion/choir tracks for better stereo balance, and added new orchesta/percussion variant.
 * _“music_mso2”_ and variants normalised and remastered from orchestra and percussion/choir tracks for better stereo balance.
