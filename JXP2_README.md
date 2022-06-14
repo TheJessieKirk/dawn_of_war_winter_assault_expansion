@@ -1,7 +1,6 @@
 # Dawn of War: Winter Assault Expansion
 
 ## 0. Legal
-## 0. Legal
 Copyright © 2022 Jessie Kirk.
 
 This release is __100% unofficial__ and in no way endorsed by [Games Workshop](<https://www.games-workshop.com/>), [Relic Entertainment](<https://www.relic.com/>), [SEGA](<https://www.sega.com/>), or their affiliates.
