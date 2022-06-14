@@ -3,3 +3,7 @@ ModTools/DataGeneric/JXP2/Sound/Music/music_mso1_sides.aup3 filter=lfs diff=lfs 
 ModTools/DataGeneric/JXP2/Sound/Music/music_mso2_sides.aup3 filter=lfs diff=lfs merge=lfs -text
 ModTools/DataGeneric/JXP2/Sound/Music/copy[[:space:]]of[[:space:]]music_main_title_sides.aup3 filter=lfs diff=lfs merge=lfs -text
 ModTools/DataGeneric/JXP/Sound/Music/music_chant_sides.aup3 filter=lfs diff=lfs merge=lfs -text
+ModTools/DataGeneric/JXP/Sound/Music/music_force_commander_theme_sides.aup3 filter=lfs diff=lfs merge=lfs -text
+ModTools/DataGeneric/JXP/Sound/Music/ambient_city_remix.aup3 filter=lfs diff=lfs merge=lfs -text
+ModTools/DataGeneric/JXP/Sound/Music/ambient_city.wav filter=lfs diff=lfs merge=lfs -text
+ModTools/DataGeneric/JXP/Sound/Music/ambient_desert_remix.aup3 filter=lfs diff=lfs merge=lfs -text

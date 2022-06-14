@@ -1,13 +1,17 @@
 *
 !.gitattributes
 !.gitignore
+!JXP.module
 !JXP_LICENSE.txt
 !JXP_README.md
+!JXP2.module
 !JXP2_LICENSE.txt
 !JXP2_README.md
 
 !*/
 
+!JXP/Locale/English/*.ucs
+!JXP2/Locale/English/*.ucs
 !ModTools/DataGeneric/JXP/_default.burn
 !ModTools/DataGeneric/JXP/Sound/*.fda
 !ModTools/DataGeneric/JXP/Sound/*.rat
