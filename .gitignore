@@ -7,6 +7,10 @@
 !ModTools/DataGeneric/JXP2/_default.burn
 !ModTools/DataGeneric/JXP2/Sound/*.fda
 !ModTools/DataGeneric/JXP2/Sound/*.rat
+!ModTools/DataGeneric/JXP2/Sound/LoadingMusic/*.aup3
+!ModTools/DataGeneric/JXP2/Sound/LoadingMusic/*.fda
+!ModTools/DataGeneric/JXP2/Sound/LoadingMusic/*.rat
+!ModTools/DataGeneric/JXP2/Sound/LoadingMusic/*.wav
 !ModTools/DataGeneric/JXP2/Sound/Music/*.aup3
 !ModTools/DataGeneric/JXP2/Sound/Music/*.fda
 !ModTools/DataGeneric/JXP2/Sound/Music/*.rat
