@@ -26,8 +26,9 @@ You should have received a copy of the GNU Lesser General Public License along w
 ### 1.1 Music
 
 * _“character_crull”_ and variants normalised and remastered from orchestra and percussion tracks.
-* _“character_gorgutz”_ and variants normalised, remastered from orchestra and percussion tracks for better stereo balance, fade-out repaired and end-silence trimmed.
+* _“character_gorgutz”_ and variants normalised, remastered from orchestra and percussion tracks, fade-out repaired and end-silence trimmed.
 * _“character_sturnn”_ and variants normalised and remastered from orchestra and percussion tracks for better stereo balance, and end-silence trimmed.
+* _“character_taldeer”_ and variants normalised and remastered from orchestra and percussion tracks for better stereo balance.
 * _“copy of music_main_title”_ normalised and remastered for better stereo balance.
 * _“loop_msd1”_ normalised and remastered for better stereo balance.
 * _“loop_msd2”_ normalised.
