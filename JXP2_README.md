@@ -11,6 +11,14 @@ _[Dawn of War](<https://www.dawnofwar.com/>)_ is developed by [Relic Entertainme
 
 The _[GNU Lesser General Public License](<https://www.gnu.org/licenses/lgpl-3.0>)_ is ® or ™, and/or © 1989, 1991, 1999, 2007 [Free Software Foundation](<https://www.fsf.org/>).
 
+_[artillery fire.mp3](<https://freesound.org/people/Tomashevsky/sounds/476664/)>)_ is ® or ™, and/or © 2019  [Tomashevsky](<https://freesound.org/people/Tomashevsky/>). Licensed under [Attribution NonCommercial 3.0 International (CC BY-NC 3.0)](<https://creativecommons.org/licenses/by-nc/3.0/>).
+
+_[canon.aif](<https://freesound.org/people/man/sounds/14615/>)_ is ® or ™, and/or © 2006  [man](<https://freesound.org/people/man/>). Licensed under [Attribution 4.0 Unported (CC BY 3.0)](<https://creativecommons.org/licenses/by/3.0/>).
+
+_[Heavy impact of a artillery firing, close](<https://www.zapsplat.com/music/heavy-impact-of-a-artillery-firing-close/>)_ is ® or ™, and/or © [SmartSound](<https://www.zapsplat.com/author/smartsound/>). Licensed under [ZapSplat Standard License](<https://www.zapsplat.com/license-type/standard-license/>).
+
+_[Heavy impact sound of a artillery firing, close](<https://www.zapsplat.com/music/heavy-impact-sound-of-a-artillery-firing-close/>)_ is ® or ™, and/or © [SmartSound](<https://www.zapsplat.com/author/smartsound/>). Licensed under [ZapSplat Standard License](<https://www.zapsplat.com/license-type/standard-license/>).
+
 All rights reserved. All other trademarks, logos and copyrights are the property of their respective owners.
 
 ### 0.1 License and Limitation of Liability
@@ -44,3 +52,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 * _“music_imperial_guard_theme”_ and variants normalised and remastered from orchestra, percussion and percussion/choir tracks for better stereo balance, and added new orchesta/percussion variant.
 * _“music_mso1”_ and variants normalised and remastered from orchestra, percussion and percussion/choir tracks for better stereo balance, and added new orchesta/percussion variant.
 * _“music_mso2”_ and variants normalised and remastered from orchestra and percussion/choir tracks for better stereo balance.
+
+### 1.2 Sound
+
+* Earthshaker cannon shooting attack sounds recreated. Edited together from _“[artillery fire.mp3](<https://freesound.org/people/Tomashevsky/sounds/476664/>)”_, _“[canon.aif](<https://freesound.org/people/man/sounds/14615/>)”_, _“[Heavy impact of a artillery firing, close](<https://www.zapsplat.com/music/heavy-impact-of-a-artillery-firing-close/>)”_ and _“[Heavy impact sound of a artillery firing, close](<https://www.zapsplat.com/music/heavy-impact-sound-of-a-artillery-firing-close/>)”_. 
