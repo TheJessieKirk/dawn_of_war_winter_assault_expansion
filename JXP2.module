@@ -8,6 +8,8 @@ ModVersion = 0.1.0
 
 DataFolder.1 = Data
 
+ArchiveFile.1 = VanillaCore
+
 RequiredMod.1 = JXP
 RequiredMod.2 = WXP
 RequiredMod.3 = W40k

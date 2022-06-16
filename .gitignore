@@ -9,12 +9,14 @@
 !JXP2_README.md
 
 !*/
+!JXP/*.sga
 !JXP/Data/*.lua
 !JXP/Data/Sound/*.rat
 !JXP/Data/Sound/Music/*.fda
 !JXP/Data/Sound/Music/*.rat
 !JXP/Data/Sound/Races/*.rat
 !JXP/Locale/English/*.ucs
+!JXP2/*.sga
 !JXP2/Data/*.lua
 !JXP2/Data/Sound/*.rat
 !JXP2/Data/Sound/LoadingMusic/*.fda
@@ -26,6 +28,7 @@
 !JXP2/Data/Sound/Races/Shared/Troop_Weapons/Earthshaker_Cannon/*.rat
 !JXP2/Locale/English/*.ucs
 !ModTools/DataGeneric/JXP/_default.burn
+!ModTools/DataGeneric/JXP/VanillaCore.zip
 !ModTools/DataGeneric/JXP/Sound/*.fda
 !ModTools/DataGeneric/JXP/Sound/*.rat
 !ModTools/DataGeneric/JXP/Sound/Music/*.aup3
@@ -33,6 +36,7 @@
 !ModTools/DataGeneric/JXP/Sound/Music/*.rat
 !ModTools/DataGeneric/JXP/Sound/Music/*.wav
 !ModTools/DataGeneric/JXP2/_default.burn
+!ModTools/DataGeneric/JXP2/VanillaCore.zip
 !ModTools/DataGeneric/JXP2/Sound/*.fda
 !ModTools/DataGeneric/JXP2/Sound/*.rat
 !ModTools/DataGeneric/JXP2/Sound/LoadingMusic/*.aup3
