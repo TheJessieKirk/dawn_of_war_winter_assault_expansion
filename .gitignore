@@ -9,8 +9,21 @@
 !JXP2_README.md
 
 !*/
-
+!JXP/Data/*.lua
+!JXP/Data/Sound/*.rat
+!JXP/Data/Sound/Music/*.fda
+!JXP/Data/Sound/Music/*.rat
+!JXP/Data/Sound/Races/*.rat
 !JXP/Locale/English/*.ucs
+!JXP2/Data/*.lua
+!JXP2/Data/Sound/*.rat
+!JXP2/Data/Sound/LoadingMusic/*.fda
+!JXP2/Data/Sound/LoadingMusic/*.rat
+!JXP2/Data/Sound/Music/*.fda
+!JXP2/Data/Sound/Music/*.rat
+!JXP2/Data/Sound/Races/*.rat
+!JXP2/Data/Sound/Races/Shared/Troop_Weapons/Earthshaker_Cannon/*.fda
+!JXP2/Data/Sound/Races/Shared/Troop_Weapons/Earthshaker_Cannon/*.rat
 !JXP2/Locale/English/*.ucs
 !ModTools/DataGeneric/JXP/_default.burn
 !ModTools/DataGeneric/JXP/Sound/*.fda
@@ -26,6 +39,11 @@
 !ModTools/DataGeneric/JXP2/Sound/LoadingMusic/*.fda
 !ModTools/DataGeneric/JXP2/Sound/LoadingMusic/*.rat
 !ModTools/DataGeneric/JXP2/Sound/LoadingMusic/*.wav
+!ModTools/DataGeneric/JXP2/Sound/Races/*.rat
+!ModTools/DataGeneric/JXP2/Sound/Races/Shared/Troop_Weapons/Earthshaker_Cannon/*.aup3
+!ModTools/DataGeneric/JXP2/Sound/Races/Shared/Troop_Weapons/Earthshaker_Cannon/*.fda
+!ModTools/DataGeneric/JXP2/Sound/Races/Shared/Troop_Weapons/Earthshaker_Cannon/*.rat
+!ModTools/DataGeneric/JXP2/Sound/Races/Shared/Troop_Weapons/Earthshaker_Cannon/*.wav
 !ModTools/DataGeneric/JXP2/Sound/Music/*.aup3
 !ModTools/DataGeneric/JXP2/Sound/Music/*.fda
 !ModTools/DataGeneric/JXP2/Sound/Music/*.rat
